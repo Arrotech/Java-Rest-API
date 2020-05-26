@@ -30,7 +30,6 @@ Note that this project is meant for java.
 2.  Then import the extracted folder to eclipse and run the application.
 3.  Run postman or any other web service client to test the api endpoints.
 
-
 **AUTHOR**
 
      Harun Gachanja Gitundu.
