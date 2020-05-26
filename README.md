@@ -20,6 +20,11 @@ This are the basic project requirements. Make sure to install the before attempt
 1.  Java.
 2.  Eclipse IDE.
 3.  Apache Tomcat.
+4.  Spring boot dependencies.
+		
+		- H2 Database
+		- JPA Repository
+		- Spring Web
 
 
 **HOW TO RUN THE APPLICATION**
