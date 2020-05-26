@@ -20,7 +20,8 @@ This are the basic project requirements. Make sure to install the before attempt
 1.  Java.
 2.  Eclipse IDE.
 3.  Apache Tomcat.
-4.  Spring boot dependencies.
+4.  Postman.
+5.  Spring boot dependencies.
 		
 		- H2 Database
 		- JPA Repository
@@ -31,9 +32,10 @@ This are the basic project requirements. Make sure to install the before attempt
 
 Note that this project is meant for java.
 
-1.  Download and extract the zipped folder.
-2.  Then import the extracted folder to eclipse and run the application.
-3.  Run postman or any other web service client to test the api endpoints.
+1.  Download the repository.
+2.  Extract the zipped folder.
+3.  Then import the extracted folder to eclipse and run the application.
+4.  Run postman or any other web service client to test the api endpoints.
 
 **HOW TO TEST**
 
