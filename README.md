@@ -30,6 +30,18 @@ Note that this project is meant for java.
 2.  Then import the extracted folder to eclipse and run the application.
 3.  Run postman or any other web service client to test the api endpoints.
 
+**HOW TO TEST**
+
+Run the application and test it with postman web service client.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/b6d3cef4d1f3cc719260)
+
+**Documentation Link**
+
+Below are set of api's documentation in postman.
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/8378409/SztBa7TD)
+
 **AUTHOR**
 
      Harun Gachanja Gitundu.
